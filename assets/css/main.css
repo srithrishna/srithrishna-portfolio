@@ -647,7 +647,7 @@ input, select, textarea {
 		.image:before {
 			pointer-events: none;
 			background-image: url("C:\Users\J SRI THRISHNA\Documents\Checking portfolio\images\experience.jpeg");
-			background-color: rgba(19, 21, 25, 0.5);
+			background-color: white;
 			border-radius: 4px;
 			content: '';
 			display: block;
