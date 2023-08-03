@@ -647,7 +647,7 @@ input, select, textarea {
 		.image:before {
 			pointer-events: none;
 			background-image: url("C:\Users\J SRI THRISHNA\Documents\Checking portfolio\images\experience.jpeg");
-			background-color: white;
+			background-color: black;
 			border-radius: 4px;
 			content: '';
 			display: block;
@@ -1313,7 +1313,7 @@ input, select, textarea {
 		}
 
 			#header .logo .icon:before {
-				font-size: 3rem;
+				font-size: 17rem;
 			}
 
 		#header .content {
